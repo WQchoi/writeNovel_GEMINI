@@ -1,0 +1,1 @@
+# writeNovel_GEMINI
